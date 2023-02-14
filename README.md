@@ -9,8 +9,8 @@ Dplace website is an innovative web application that enables users to share thei
 
 # 🚀 Features
 
-- Login/Signup User Account
-- Login Sing With Email
+- Login/SignUp User Account
+- Login SingIn With Email
 - Update Profile Name/Email/Password/ProfilePicture 
 - Delete Own User
 - Add New Posts
@@ -22,7 +22,7 @@ Dplace website is an innovative web application that enables users to share thei
 - Add New Comments on Posts
 - Update Comment Text/CommentDate 
 - Delete Own Commments
-- Map integration: Places shared by users are displayed on a Google maps for easy navigation and visualization
+- Map integration: Places shared by users are displayed on Google maps for easy navigation and visualization
 - User profiles: Users can view their profile and all the posts they have shared and liked
 - Cloudinary integration: Photos uploaded by users are stored using the Cloudinary platform
 
