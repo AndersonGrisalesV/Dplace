@@ -97,14 +97,19 @@ $ npm # or yarn i
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge'>
  </a>
   
+  <a href='https://nodejs.org/en/download/package-manager/?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+  <img src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge'>
+ </a>
+  
+  
   <a href='https://nodejs.org/en/download/?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge'>
  </a>
   
-  <a href='https://nodejs.org/en/download/package-manager/?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
-  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge'>
- </a>
+  
  </div>
+ 
+ ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
