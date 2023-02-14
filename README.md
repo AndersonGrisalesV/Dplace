@@ -63,23 +63,17 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 
 **Cloud Storage:**
 
-![aws-s3](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[Cloudinary](https://cloudinary.com/)
 
 **Deployed On:**
 
-## Frontend
+** Frontend **
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## Backend
+** Backend **
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
-**Mail Service:** [Sendgrid](https://sendgrid.com/)
-
 
  
  <a href='https://dplace-3d5f4.web.app/api/homepage?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
