@@ -92,6 +92,14 @@ $ npm # or yarn i
 
 **Prerequisites:**
 
+<div align="center">
+ <a href='https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge'>
+ </a>
+   </div>
+
+
+
 - [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
 - [Node](https://nodejs.org/en/download/) ^10.0.0
 - [npm](https://nodejs.org/en/download/package-manager/)
