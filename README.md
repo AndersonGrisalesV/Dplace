@@ -31,16 +31,7 @@ Dplace website is an innovative web application that enables users to share thei
 - User profiles: Users can view their profile and all the posts they have shared and liked
 - Cloudinary integration: Photos uploaded by users are stored using the Cloudinary platform
 
-# 👨‍💻 Tech stack
-
-Here's a brief high-level overview of the tech stack the Well app uses:
-
-- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
-
-## 🖥️ Tech Stack
+## 👨‍💻  Tech Stack
 
 **Frontend:**
 
@@ -64,7 +55,8 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 
 [Cloudinary](https://cloudinary.com/)
 
-## Deployed On:
+
+## :heavy_check_mark: Deployed On
 
 **Frontend:**
 
@@ -75,7 +67,6 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
  
-
 
 ---
 
