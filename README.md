@@ -74,12 +74,6 @@ Dplace website is an innovative web application that enables users to share thei
 
 ---
 
-# :warning: Images Copyright Claim
-
-The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
-
----
-
 </br>
 
 # :technologist: clone or download
@@ -95,7 +89,7 @@ $ npm # or yarn i
 
 **Prerequisites:**
 
-<div align="center">
+<div align="left">
    <a href='https://nodejs.org/en/download/?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge'>
  </a>
@@ -169,5 +163,13 @@ JWT_KEY="jwt_secret_key"
 npm run start
 
 ```
+
+---
+
+# :warning: Images Copyright Claim
+
+The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
+
+---
 
 
