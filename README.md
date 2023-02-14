@@ -116,53 +116,53 @@ $ npm # or yarn i
 1. Install dependencies
 
 ```
+$ cd (Project folder)
 
-npm i && cd client && npm i && cd ..
-
-```
-
- </br>
-
-2. Create variables.env file and replace values with yours
-
-```
-
-NODE_ENV=development
-DATABASE="Mongodb Connection String"
-JWT_KEY="secretkey"
-EMAILUSER="example@gmail.com"
-EMAILPASS="example"
-HOST="your ip eg. http://192.168.0.14:5000"
-ENABLE_SEND_EMAIL="true or false" // false if you don't want to set it up
-TEST_DATABASE="testing db"
+$ npm # or yarn i
 
 ```
 
  </br>
 
-3. Go into `client/src/_services/socketService.js` and replace
+2. Create variables.env for the frontend file and replace values with yours
 
 ```
 
-window.location.hostname
+REACT_APP_GOOGLE_API_KEY=_"google_maps_api_key"
+REACT_APP_BACKEND_URL="backend_endpoint" //http://localhost:3000
+
 
 ```
+
+</br>
+
+3. Create variables.env for the backend file and replace values with yours
+
+```
+
+CLOUD_NAME="cloduinary_name"
+CLOUD_KEY="cloudinary_key"
+CLOUD_KEY_SECRET="cloudinary_secret_key"
+GOOGLE_MAPS_TOKEN="google_maps_token"
+MONGO_USER="db_mongo_user"
+MONGO_PASS="db_mongo_pass"
+MONGO_DATABASE="db_mongo_database"
+DB_PASSWORD="db_mongo_password"
+JWT_KEY="jwt_secret_key"
+
+
+```
+
 
  </br>
  
-with your local IP address on port 5000 eg.
+
+5. Run project
 
 ```
 
-192.168.0.14:5000
+npm run start
 
-```
- </br>
-
-4. Run project
-
-```
-npm run dev
 ```
 
 
