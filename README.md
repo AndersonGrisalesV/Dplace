@@ -4,7 +4,7 @@
  </div>
 
  
-Dplace website is an innovative web application that enables users to share their experiences through photos and locations for others to see and visit as well. With the ability to see the place on Google maps, comment, like, and share posts, users can interact with a community of people all showing the beauty around the world. Creating an account on the website also opens the door for users to share their own places, and engange with other people's places.
+Dplace website is an innovative web application that enables users to share their experiences through photos and locations for others to see and visit. Creating an account on the website opens the door for users to share places, and engange with other people, the website gives users the ability to view each location on Google Maps, comment, like, and share posts, Dplace creates a dynamic and interactive community of explorers. Join us on our journey to see the beauty of the world through each other's experiences."
 
 
 # 🚀 Features
