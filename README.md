@@ -6,6 +6,11 @@
  
 Dplace website is an innovative web application that enables users to share their experiences through photos and locations for others to see and visit. Creating an account on the website opens the door for users to share places, and engange with other people, the website gives users the ability to view each location on Google Maps, comment, like, and share posts, Dplace creates a dynamic and interactive community of explorers. Join us on our journey to see the beauty of the world through each other's experiences."
 
+ <a href='https://dplace-3d5f4.web.app/api/homepage?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+  <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
+ </a>
+
+
 
 # 🚀 Features
 
@@ -47,9 +52,6 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
-
 **Backend:**
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -57,28 +59,22 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
-**Realtime Communication:**
-
-![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 **Cloud Storage:**
 
 [Cloudinary](https://cloudinary.com/)
 
-**Deployed On:**
+## Deployed On:
 
-** Frontend **
+**Frontend:**
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-** Backend **
+**Backend:**
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
  
- <a href='https://dplace-3d5f4.web.app/api/homepage?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
-  <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
- </a>
 
 
 ---
@@ -86,6 +82,8 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 ## :warning: Images Copyright Claim
 
 The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
+
+---
 
 # Getting Started with Create React App 
 
