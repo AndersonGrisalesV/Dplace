@@ -6,11 +6,13 @@
  
 Dplace website is an innovative web application that enables users to share their experiences through photos and locations for others to see and visit. Creating an account on the website opens the door for users to share places, and engange with other people, the website gives users the ability to view each location on Google Maps, comment, like, and share posts, Dplace creates a dynamic and interactive community of explorers. Join us on our journey to see the beauty of the world through each other's experiences."
 
+<div align="center">
  <a href='https://dplace-3d5f4.web.app/api/homepage?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
   <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
  </a>
+   </div>
 
-
+</br>
 
 # 🚀 Features
 
@@ -31,7 +33,9 @@ Dplace website is an innovative web application that enables users to share thei
 - User profiles: Users can view their profile and all the posts they have shared and liked
 - Cloudinary integration: Photos uploaded by users are stored using the Cloudinary platform
 
-## 👨‍💻  Tech Stack
+</br>
+
+# 👨‍💻  Tech Stack
 
 **Frontend:**
 
@@ -54,7 +58,7 @@ Dplace website is an innovative web application that enables users to share thei
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge)
 
 
-## :heavy_check_mark: Deployed On
+# :heavy_check_mark: Deployed On
 
 **Frontend:**
 
@@ -68,11 +72,57 @@ Dplace website is an innovative web application that enables users to share thei
 
 ---
 
-## :warning: Images Copyright Claim
+# :warning: Images Copyright Claim
 
 The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
 
 ---
+
+## clone or download
+```terminal
+$ git clone https://github.com/AndersonGrisalesV/Dplace
+$ npm # or yarn i
+```
+
+## Usage (run fullstack website on your machine)
+
+1. Install dependencies
+
+```
+npm i && cd client && npm i && cd ..
+```
+
+2. Create variables.env file and replace values with yours
+
+```
+NODE_ENV=development
+DATABASE="Mongodb Connection String"
+JWT_KEY="secretkey"
+EMAILUSER="example@gmail.com"
+EMAILPASS="example"
+HOST="your ip eg. http://192.168.0.14:5000"
+ENABLE_SEND_EMAIL="true or false" // false if you don't want to set it up
+TEST_DATABASE="testing db"
+```
+
+3. Go into `client/src/_services/socketService.js` and replace
+
+```
+window.location.hostname
+```
+
+with your local IP address on port 5000 eg.
+
+```
+192.168.0.14:5000
+```
+
+4. Run project
+
+```
+npm run dev
+```
+
 
 # Getting Started with Create React App 
 
