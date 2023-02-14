@@ -83,9 +83,12 @@ The images used in this project are the property of their respective creators/au
 </br>
 
 # :technologist: clone or download
+
 ```terminal
+
 $ git clone https://github.com/AndersonGrisalesV/Dplace
 $ npm # or yarn i
+
 ```
 
 ## Usage (run fullstack website on your machine)
@@ -116,9 +119,11 @@ $ npm # or yarn i
 1. Install dependencies
 
 ```
+
 $ cd (Project folder)
 
 $ npm # or yarn i
+
 
 ```
 
