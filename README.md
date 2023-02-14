@@ -92,17 +92,19 @@ $ npm # or yarn i
 
 **Prerequisites:**
 
-<div align="center">
+<div align="left">
  <a href='https://www.mongodb.com?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge'>
  </a>
-   </div>
-
-
-
-- [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
-- [Node](https://nodejs.org/en/download/) ^10.0.0
-- [npm](https://nodejs.org/en/download/package-manager/)
+  
+  <a href='https://nodejs.org/en/download/?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge'>
+ </a>
+  
+  <a href='https://nodejs.org/en/download/package-manager/?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge'>
+ </a>
+ </div>
 
 notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
