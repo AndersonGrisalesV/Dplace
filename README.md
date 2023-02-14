@@ -93,7 +93,7 @@ $ npm # or yarn i
 **Prerequisites:**
 
 <div align="center">
- <a href='https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+ <a href='https://www.mongodb.com?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge'>
  </a>
    </div>
