@@ -59,6 +59,7 @@ Dplace website is an innovative web application that enables users to share thei
 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge)
 
+</br>
 
 # :heavy_check_mark: Deployed On
 
