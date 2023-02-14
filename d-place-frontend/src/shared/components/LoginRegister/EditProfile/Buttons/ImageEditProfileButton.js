@@ -1,0 +1,87 @@
+import React from "react";
+
+import { Button, Stack, styled } from "@mui/material";
+
+//* Styled component for Button
+const StyleButtonImage = styled(Button)(({ theme }) => ({
+  color: theme.palette.mode === "dark" ? "rgba(255, 255, 255, 0.7)" : "#da4453",
+  "&:hover": {
+    backgroundColor: "transparent",
+    color: "#9b9b9bc7",
+  },
+}));
+
+//* formInputsHandler is pointer to a function that stores the new image into an object on EditProfile
+// isLoading is a boolean indicating whether the image is loaded or not on EditProfile
+// showSuccess helps us disable the button(s) after clicking the form on EditProfile
+// imageUrl contains the URL of an image on EditProfile
+// setImageUrl  is a state passed as a prop that sets the new image selected by the user on EditProfile
+const ImageEditProfileButton = ({
+  formInputsHandler,
+  isLoading,
+  showSuccess,
+  setImageUrl,
+}) => {
+  //* Event handler when the input file changes (changes the image and reflects that change)
+  const handleChangeImageUploadPlaceButton = (e) => {
+    if (e.target.files[0]) {
+      formInputsHandler(e);
+      setImageUrl(null);
+    }
+  };
+  //* Event handler when the input file is clicked (opens up a select image for user to select image)
+  const handleClickImageUploadPlaceButton = (e) => {
+    if (e.target.files[0]) {
+      formInputsHandler(e);
+      setImageUrl(null);
+    }
+  };
+  return (
+    <Stack
+      direction="row"
+      spacing={0}
+      justifyContent="center"
+      sx={{ marginTop: "16px" }}
+    >
+      <input
+        accept="image/*"
+        type="file"
+        id="select-image"
+        style={{ display: "none" }}
+        onClick={handleClickImageUploadPlaceButton}
+        onChange={handleChangeImageUploadPlaceButton}
+        name="image"
+      />
+      <label htmlFor="select-image" style={{ marginLeft: "0px" }}>
+        <StyleButtonImage
+          disableRipple={true}
+          disabled={isLoading ? true : false || showSuccess ? true : false}
+          component="span"
+          sx={{
+            fontWeight: 500,
+            textTransform: "none",
+            //* fontSize for different screen sizes
+            fontSize: {
+              sps: "10px",
+              ps: "12px",
+              ts: "12px",
+              sls: "13px",
+              sms: "14px",
+              sc: "14px",
+              nsc: "14px",
+              ns: "14px",
+              msc: "14px",
+              mns: "14px",
+              ms: "14px",
+              lgs: "14px",
+            },
+          }}
+        >
+          Change picture
+        </StyleButtonImage>
+      </label>
+    </Stack>
+  );
+};
+
+export default ImageEditProfileButton;
