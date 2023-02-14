@@ -6,9 +6,11 @@
  
 Dplace website is an innovative web application that enables users to share their experiences through photos and locations for others to see and visit. Creating an account on the website opens the door for users to share places, and engange with other people, the website gives users the ability to view each location on Google Maps, comment, like, and share posts, Dplace creates a dynamic and interactive community of explorers. Join us on our journey to see the beauty of the world through each other's experiences."
 
+</br>
+
 <div align="center">
  <a href='https://dplace-3d5f4.web.app/api/homepage?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
-  <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
+  <img src='https://img.shields.io/badge/HOMEPAGE-white?style=for-the-badge'>
  </a>
    </div>
 
@@ -18,7 +20,7 @@ Dplace website is an innovative web application that enables users to share thei
 
 - Login/SignUp User Account
 - Login SingIn With Email
-- Update Profile Name/Email/Password/ProfilePicture 
+- Update Profile Name/Email/Password/ProfilePicture
 - Delete Own User
 - Add New Posts
 - Update Post Title/Description/Address/Image/PostDate
@@ -68,7 +70,7 @@ Dplace website is an innovative web application that enables users to share thei
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
- 
+ </br>
 
 ---
 
@@ -78,13 +80,23 @@ The images used in this project are the property of their respective creators/au
 
 ---
 
-## clone or download
+</br>
+
+# :technologist: clone or download
 ```terminal
 $ git clone https://github.com/AndersonGrisalesV/Dplace
 $ npm # or yarn i
 ```
 
 ## Usage (run fullstack website on your machine)
+
+**Prerequisites:**
+
+- [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
+- [Node](https://nodejs.org/en/download/) ^10.0.0
+- [npm](https://nodejs.org/en/download/package-manager/)
+
+notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
 1. Install dependencies
 
