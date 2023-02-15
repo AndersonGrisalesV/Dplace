@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/94204560/218552485-cc3545f5-b588-493a-9331-0c681f66544a.png" width=15% height=15%>
+  <img src="https://user-images.githubusercontent.com/94204560/218552485-cc3545f5-b588-493a-9331-0c681f66544a.png" width=28% height=28%>
   <h1>Dplace</h1>
  </div>
 
