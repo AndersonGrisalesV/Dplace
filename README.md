@@ -77,7 +77,7 @@ Dplace website is an innovative web application that enables users to share thei
 
 </br>
 
-# :technologist: clone or download
+# :technologist: Clone or download
 
 ```terminal
 
@@ -111,7 +111,7 @@ $ npm # or yarn i
 
  </br>
 
-1. Install dependencies
+**1. Install dependencies**
 
 ```
 
@@ -124,7 +124,7 @@ $ npm # or yarn i
 
  </br>
 
-2. Create variables.env for the frontend file and replace values with yours
+**2. Create variables.env for the frontend file and replace values with yours**
 
 ```
 
@@ -136,7 +136,7 @@ REACT_APP_BACKEND_URL="backend_endpoint" //http://localhost:3000
 
 </br>
 
-3. Create variables.env for the backend file and replace values with yours
+**3. Create variables.env for the backend file and replace values with yours**
 
 ```
 
@@ -157,7 +157,7 @@ JWT_KEY="jwt_secret_key"
  </br>
  
 
-5. Run project
+**4. Run project**
 
 ```
 
