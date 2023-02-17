@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/94204560/218552485-cc3545f5-b588-493a-9331-0c681f66544a.png" width=25% height=25%>
+  <img src="https://user-images.githubusercontent.com/94204560/218552485-cc3545f5-b588-493a-9331-0c681f66544a.png" width=20% height=20%>
   <h1>Dplace</h1>
  </div>
 
@@ -72,6 +72,19 @@ Dplace website is an innovative web application that enables users to share thei
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
  </br>
+
+---
+
+# :paintbrush: Contribution
+
+If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
+If you have any questions or would like to start a discussion about this project, please visit our GitHub discussion board. We encourage open dialogue and welcome any feedback you may have.
+
+</br>
+
+# :warning: Images Copyright Claim
+
+The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
 
 ---
 
@@ -165,12 +178,6 @@ npm run start
 
 ```
 
----
 
-# :warning: Images Copyright Claim
-
-The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
-
----
 
 
