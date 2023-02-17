@@ -73,10 +73,6 @@ Dplace website is an innovative web application that enables users to share thei
 
  </br>
 
----
-
-</br>
-
 # :technologist: Clone or download
 
 ```terminal
@@ -166,8 +162,6 @@ npm run start
 ```
 
 </br>
-
----
 
 ---
 
