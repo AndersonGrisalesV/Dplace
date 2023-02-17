@@ -35,7 +35,7 @@ Dplace website is an innovative web application that enables users to share thei
 - [Tech Stack](#-tech-stack)
 - [Deployment](#-deployed-on)
 - [Usage](#-Clone-or-download)
-- [Contribution](#-Contribution)
+- [Contribution](#-contribution)
 - [Contact](#-contact)
 
 </br>
@@ -188,7 +188,7 @@ npm run start
 
 ---
 
-# :paintbrush: Contribution
+# 🖌️ Contribution
 
 If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
 
