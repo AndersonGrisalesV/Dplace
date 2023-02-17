@@ -32,18 +32,11 @@ Dplace website is an innovative web application that enables users to share thei
 # 🚩 Table of Contents
 
 - [Features](#-features) 
-
 - [Tech Stack](#-Tech-Stack)
-
-Deployment
-Contribution
-Images Copyright Claim
-Contact
-License
-Thanks
-Clone or Download
-
-
+- [Deployment](#-Deployment)
+- [Usage](#-Clone-or-Download)
+- [Contribution](#-Contribution)
+- [Contact](#-Contact)
 
 </br>
 
