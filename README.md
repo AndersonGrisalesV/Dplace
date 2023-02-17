@@ -97,7 +97,7 @@ Dplace website is an innovative web application that enables users to share thei
 
  </br>
 
-# :technologist: Clone or download
+# 🧑‍💻 Clone or download
 
 ```terminal
 
