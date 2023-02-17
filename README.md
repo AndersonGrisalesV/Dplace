@@ -194,8 +194,6 @@ npm run start
 
 If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
 
-</br>
-
 #	📭 Contact 
 
 If you want to contact me, you can reach me through below handle
