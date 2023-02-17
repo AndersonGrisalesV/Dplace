@@ -211,13 +211,13 @@ grisalesvargasanderson@gmail.com
 
 </br>
 
-# :scroll: License
+# 📜 License
 
 This project is licensed under the [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
 
 </br>
 
-# :raising_hand_man: Thanks 
+# 🙋‍♂️ Thanks
 
 Thank you for taking the time to check out this project! I appreciate your interest and hope you find it interesting. If you have any feedback or suggestions, please don't hesitate to let me know.
 
