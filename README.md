@@ -8,18 +8,17 @@ Dplace website is an innovative web application that enables users to share thei
 
 </br>
 
+
 <div align="center">
   <a href='https://dplace-3d5f4.web.app/api/homepage?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
-      <img src='https://img.shields.io/badge/HOMEPAGE-white?style=for-the-badge'>
+      <img src='https://user-images.githubusercontent.com/94204560/219815507-de294321-2e6d-44b8-9d60-e68d331d5a57.png'>
   </a>
 </div>
 
-![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
-
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116105-15b9425c-1fec-4a52-84ba-cf97eef93891.png" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116112-1c7dec3e-0f3a-45a8-83d3-6d6b9ee1d5de.png" alt="mockups" /></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/219816085-dbfcf7c0-32c0-4125-86aa-66626ac0c115.png" alt="mockup" /></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/219816240-a23487f9-1b30-4084-bdd3-56d37ca91219.png" alt="mockups" /></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/64949957/159116115-46f15626-372d-4349-8ef4-a04a70600dcc.png" alt="mockup" /></td>
