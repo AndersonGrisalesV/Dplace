@@ -187,12 +187,6 @@ npm run start
 
 ---
 
-# Contribution
-
-If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
-
-</br>
-
 #	📭 Contact 
 
 If you want to contact me, you can reach me through below handle
@@ -200,6 +194,12 @@ If you want to contact me, you can reach me through below handle
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
 grisalesvargasanderson@gmail.com
+
+</br>
+
+# 🖌️ Contribution
+
+If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
 
 </br>
 
