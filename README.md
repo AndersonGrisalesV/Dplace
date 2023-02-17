@@ -33,7 +33,7 @@ Dplace website is an innovative web application that enables users to share thei
 
 - [Features](#-features)  
 - [Tech Stack](#-tech-stack)
-- [Deployed On](#-deployed-on)
+- [Deployed On](#--deployed-on)
 - [Usage](#-clone-or-download)
 - [Contribution](#-contribution)
 - [Contact](#-contact)
@@ -194,12 +194,6 @@ If you have any suggestions or have discovered any bugs, please don't hesitate t
 
 </br>
 
-# ⚠️ Images Copyright Claim
-
-The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
-
-</br>
-
 #	📭 Contact 
 
 If you want to contact me, you can reach me through below handle
@@ -208,12 +202,17 @@ If you want to contact me, you can reach me through below handle
 
 grisalesvargasanderson@gmail.com
 
-
 </br>
 
 # 📜 License
 
 This project is licensed under the [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
+
+</br>
+
+# ⚠️ Images Copyright Claim
+
+The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
 
 </br>
 
