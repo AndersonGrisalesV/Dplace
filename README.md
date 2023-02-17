@@ -78,7 +78,6 @@ Dplace website is an innovative web application that enables users to share thei
 # :paintbrush: Contribution
 
 If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
-If you have any questions or would like to start a discussion about this project, please visit our GitHub discussion board. We encourage open dialogue and welcome any feedback you may have.
 
 </br>
 
