@@ -34,7 +34,7 @@ Dplace website is an innovative web application that enables users to share thei
 - [Features](#-features)  
 - [Tech Stack](#-tech-stack)
 - [Deployment](#-deployed-on)
-- [Usage](#-Clone-or-download)
+- [Usage](#-clone-or-download)
 - [Contribution](#-contribution)
 - [Contact](#-contact)
 
@@ -194,7 +194,7 @@ If you have any suggestions or have discovered any bugs, please don't hesitate t
 
 </br>
 
-# :warning: Images Copyright Claim
+# ⚠️ Images Copyright Claim
 
 The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
 
