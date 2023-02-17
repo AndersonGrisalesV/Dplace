@@ -200,7 +200,7 @@ The images used in this project are the property of their respective creators/au
 
 </br>
 
-#	:mailbox_with_no_mail: Contact 
+#	📭 Contact 
 
 If you want to contact me, you can reach me through below handle
 
