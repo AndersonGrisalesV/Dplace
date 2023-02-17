@@ -85,6 +85,10 @@ If you have any suggestions or have discovered any bugs, please don't hesitate t
 
 The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
 
+# :scroll: License
+
+This project is licensed under the [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
+
 ---
 
 </br>
