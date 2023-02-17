@@ -75,41 +75,6 @@ Dplace website is an innovative web application that enables users to share thei
 
 ---
 
-# :paintbrush: Contribution
-
-If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
-
-</br>
-
-# :warning: Images Copyright Claim
-
-The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
-
-</br>
-
-#	:mailbox_with_no_mail: Contact 
-
-If you want to contact me, you can reach me through below handle
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-
-grisalesvargasanderson@gmail.com
-
-
-</br>
-
-# :scroll: License
-
-This project is licensed under the [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
-
-</br>
-
-# :raising_hand_man: Thanks 
-
-Thank you for taking the time to check out this project! I appreciate your interest and hope you find it interesting. If you have any feedback or suggestions, please don't hesitate to let me know.
-
----
-
 </br>
 
 # :technologist: Clone or download
@@ -199,6 +164,47 @@ JWT_KEY="jwt_secret_key"
 npm run start
 
 ```
+
+</br>
+
+---
+
+---
+
+# :paintbrush: Contribution
+
+If you have any suggestions or have discovered any bugs, please don't hesitate to open an issue or a pull request I will review it as soon as possible.
+
+</br>
+
+# :warning: Images Copyright Claim
+
+The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
+
+</br>
+
+#	:mailbox_with_no_mail: Contact 
+
+If you want to contact me, you can reach me through below handle
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
+grisalesvargasanderson@gmail.com
+
+
+</br>
+
+# :scroll: License
+
+This project is licensed under the [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
+
+</br>
+
+# :raising_hand_man: Thanks 
+
+Thank you for taking the time to check out this project! I appreciate your interest and hope you find it interesting. If you have any feedback or suggestions, please don't hesitate to let me know.
+
+---
 
 
 
