@@ -85,7 +85,7 @@ Dplace website is an innovative web application that enables users to share thei
 
 </br>
 
-# :heavy_check_mark: Deployed On
+# ✔️ Deployed On
 
 **Frontend:**
 
