@@ -203,12 +203,6 @@ If you have any suggestions or have discovered any bugs, please don't hesitate t
 
 </br>
 
-# 📜 License
-
-This project is licensed under the [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
-
-</br>
-
 # ⚠️ Images Copyright Claim
 
 The images used in this project are the property of their respective creators/authors. No claim of ownership is made by the developer or users of this project.
@@ -218,6 +212,12 @@ The images used in this project are the property of their respective creators/au
 # 🙋‍♂️ Thanks
 
 Thank you for taking the time to check out this project! I appreciate your interest and hope you find it interesting. If you have any feedback or suggestions, please don't hesitate to let me know.
+
+</br>
+
+# 📜 License
+
+This project is licensed under the [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
 
 ---
 
