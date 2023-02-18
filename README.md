@@ -15,14 +15,16 @@ Dplace website is an innovative web application that enables users to share thei
   </a>
 </div>
 
+
+
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/94204560/219816085-dbfcf7c0-32c0-4125-86aa-66626ac0c115.png" alt="mockup" /></td>
     <td><img src="https://user-images.githubusercontent.com/94204560/219816240-a23487f9-1b30-4084-bdd3-56d37ca91219.png" alt="mockups" /></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116115-46f15626-372d-4349-8ef4-a04a70600dcc.png" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116118-ac3d261b-eb50-4a7b-a8e6-cd1a0f5720de.png" alt="mockups" /></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/219818373-d09fd93d-6077-4753-9aeb-00b7f45102e9.png" alt="mockup" /></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/219819239-f5154307-c963-4064-8483-ede5da837331.png" alt="mockups" /></td>
   </tr>
 </table>
 
