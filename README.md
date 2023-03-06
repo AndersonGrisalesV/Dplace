@@ -55,7 +55,7 @@ Dplace website is an innovative web application that enables users to share thei
 - Delete Own Posts
 - Add New Comments on Posts
 - Update Comment Text/CommentDate 
-- Delete Own Commments
+- Delete Own Comments
 - Map integration: Places shared by users are displayed on Google maps for easy navigation and visualization
 - User profiles: Users can view their profile and all the posts they have shared and liked
 - Cloudinary integration: Photos uploaded by users are stored using the Cloudinary platform
