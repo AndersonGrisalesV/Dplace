@@ -2,7 +2,11 @@
    <a href='https://dplace-3d5f4.web.app/api/homepage?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
         <img src="https://user-images.githubusercontent.com/94204560/218552485-cc3545f5-b588-493a-9331-0c681f66544a.png" width=20% height=20%>
   </a>
+   <div align="center">
+      <h6>(Click the Logo to go to the website)</h6> 
+    </div>
   <h1>Dplace</h1>
+    
  </div>
 
  
